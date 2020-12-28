@@ -6,3 +6,5 @@ Für unsere Karten Zeichner*innen beschreiben wir hier wie Strecken in unserem N
 Zugriff können alle Interessierte bekommen:
 https://usocialmaps.carto.com/dashboard/ 
 
+https://github.com/MunichWays/Carto/wiki
+
